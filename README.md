@@ -23,8 +23,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/imeureka">
-        <img src="https://avatars.githubusercontent.com/imeureka" width="200"/>
+      <a href="https://github.com/ExceptAnyone">
+        <img src="https://avatars.githubusercontent.com/ExceptAnyone" width="200"/>
       </a>
     </td>
   </tr>
@@ -40,8 +40,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/imeureka">
-        이가영
+      <a href="https://github.com/ExceptAnyone">
+        장정안
       </a>
     </td>
   </tr>
